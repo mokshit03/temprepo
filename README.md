@@ -1,2 +1,2 @@
 # temprepo
-Repository created for training, this will be deleted after training
+Repository created for training.
